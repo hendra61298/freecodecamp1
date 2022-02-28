@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendra61298/FreeCodeCamp.git"
+  },
+  "author": "Hendra Gunawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendra61298/FreeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/hendra61298/FreeCodeCamp#readme"
+}
